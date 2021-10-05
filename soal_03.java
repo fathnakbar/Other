@@ -3,6 +3,7 @@ import java.util.ArrayList;
 
 /**
  * soal_03
+ * Nambah komen tapi beda dikit, buat mancing merge conflict :)
  */
 public class soal_03 {
     public static void main(String[] args) {
