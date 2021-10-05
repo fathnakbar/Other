@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 /**
- * soal_03
+ * soal_03, Soal pembagian permen
  */
 public class soal_03 {
     public static void main(String[] args) {
@@ -17,6 +17,6 @@ public class soal_03 {
 
         System.out.println(input.get(0) / input.get(1));
         System.out.println(input.get(0) % input.get(1));
-
+        
     }
 }
